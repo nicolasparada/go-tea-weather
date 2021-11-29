@@ -1,6 +1,8 @@
 # Golang Bubble Tea Weather Demo
 
-Demo weather app writen in Golang using Bubble Tea.
+Demo weather app writen in Golang using Bubble Tea.<br>
+[Video](https://www.youtube.com/watch?v=YalT4KKnLao)
+
 
 ## Instructions
 
